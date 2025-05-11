@@ -4,22 +4,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
+<h1 align="center">hey there 👋 I am Syeda Tasnim Ezaz</h1>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h4 align="left">👩‍💻  About Me <br><br>A Computer Science student passionate about full-stack development, deep learning, and building software that makes a difference. I love coding to solve real-world problems and create impactful solutions.</h4>
 
 ###
 
-<h4 align="left">👩‍💻  About Me <br><br>Hi, I'm Syeda Tasnim Ezaz<br>Computer Science student passionate about full-stack development, deep learning, and building software that makes a difference. I love coding to solve real-world problems and create impactful solutions.</h4>
-
-###
-
-<p align="left">💬 Ask me about  <br>Full-stack development (React, Node.js, Express, MongoDB), Tailwind CSS, Pygame, Appwrite, and AWS Cloud setup.<br><br>📜 Certifications<br>AWS Certified Cloud Practitioner – Amazon Web Services<br>AWS Certified AI Practitioner – Amazon Web Services<br><br>In my free time, you'll usually find me coding — whether it's working on a new idea, debugging a side project, or just learning something cool.<br><br>How to reach me  <br>📧 Email: stezaz@mun.ca  <br>💼 LinkedIn: [linkedin.com/in/syeda-ezaz](https://linkedin.com/in/syeda-ezaz)</p>
+<p align="left">📜 Certifications<br>AWS Certified Cloud Practitioner – Amazon Web Services<br>AWS Certified AI Practitioner – Amazon Web Services<br><br>In my free time, you'll usually find me coding — whether it's working on a new idea, debugging a side project, or just learning something cool.<br><br>How to reach me  <br>📧 Email: stezaz@mun.ca  <br>💼 LinkedIn: [linkedin.com/in/syeda-ezaz](https://linkedin.com/in/syeda-ezaz)</p>
 
 ###
 
